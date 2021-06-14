@@ -14,14 +14,11 @@ My main research interests lie in the Representation Learning and Anomoly Detect
 
 Prior to Unitrento, I completed my M.Phil degree at UCAS, advised by Prof. Liming Jiang and Prof. Hansheng Wang. I did my undergraduate study at Shandong University.
 
-Updates
-======
+## Updates
 June, 2021. Gave a talk about self-supervised change detection in multi-view remote sensing images.
 
-Publications
-===============
-2021
----------------
+## Publications
+### 2021
 
 **Self-supervised Change Detection in Multi-view Remote Sensing Images**
 IEEE Transactions on Geoscience and Remote Sensing, Vol. 59, In press, 2021.
@@ -30,11 +27,9 @@ IEEE Transactions on Geoscience and Remote Sensing, Vol. 59, In press, 2021.
 IEEE Transactions on Geoscience and Remote Sensing, Vol. 59, In press, 2021.
 
 
-Teaching
-------
+## Teaching
 InSAR, UCAS
 
 
-Services
-------
+## Services
 Journal Reviwer: GRSL, MWR
