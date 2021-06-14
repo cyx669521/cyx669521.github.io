@@ -22,6 +22,7 @@ Publications
 ===============
 2021
 ---------------
+
 **Self-supervised Change Detection in Multi-view Remote Sensing Images**
 IEEE Transactions on Geoscience and Remote Sensing, Vol. 59, In press, 2021.
 
