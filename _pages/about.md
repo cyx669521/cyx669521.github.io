@@ -19,11 +19,10 @@ June, 2021. Gave a talk about self-supervised change detection in multi-view rem
 
 ## Publications
 ### 2021
-<font color=#008000 >*Self-supervised Change Detection in Multi-view Remote Sensing Images*</font>
-
+*Self-supervised Change Detection in Multi-view Remote Sensing Images*
 IEEE Transactions on Geoscience and Remote Sensing, Vol. 59, In press, 2021.
 
-**ARU-Net: Reduction of Atmospheric Phase Screen in SAR Interferometry Using Attention-based Deep Residual U-Net**
+*ARU-Net: Reduction of Atmospheric Phase Screen in SAR Interferometry Using Attention-based Deep Residual U-Net*
 IEEE Transactions on Geoscience and Remote Sensing, Vol. 59, In press, 2021.
 
 
