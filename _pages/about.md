@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About Me
-======
 Hi, welcome to my website!
 
 I am a third-year Ph.D. student at Unitrento RSLab, working with Prof. Lorenzo Bruzzone and Prof. Stefano Vitale. 
