@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuxing Chen / Msc."
+title                    : "Chen, Yuxing / Msc."
 title_separator          : "-"
-name                     : &name "Yuxing Chen"
+name                     : &name "Chen, Yuxing"
 description              : &description "personal description"
 url                      : https://cyx669521.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuxing Chen"
+  name             : "Chen, Yuxing"
   avatar           : "Yusin.png"
   bio              : "Ph.D Student"
   location         : "RSLab, Unitrento, Italy"
